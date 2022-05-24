@@ -1,6 +1,5 @@
-BambooL [![BambooL Build Status](https://img.shields.io/github/workflow/status/PaperMC/Paper/Build%20Paper/master)](https://github.com/sizquirt/BambooL/actions)
+BambooL [![BambooL Build Status](https://img.shields.io/github/workflow/status/sizquirt/BambooL/Build%20BambooL/master)](https://github.com/sizquirt/BambooL/actions)
 
-[![Open Collective](https://img.shields.io/opencollective/all/papermc?label=OpenCollective%20Sponsors)](https://opencollective.com/papermc)
 ===========
 
 A High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
@@ -13,7 +12,7 @@ How To (Server Admins)
 ------
 Paperclip is a jar file that you can download and run just like a normal jar file.
 
-Download Paper from our [downloads page](https://papermc.io/downloads).
+Download coming soon.. [downloads page](https://papermc.io/downloads).
 
 Run the Paperclip jar directly from your server. Just like old times
 
@@ -23,8 +22,8 @@ Run the Paperclip jar directly from your server. Just like old times
 How To (Plugin Developers)
 ------
  * See our API patches [here](patches/api)
- * See upcoming, pending, and recently added API [here](https://github.com/PaperMC/Paper/projects/6)
- * Paper API javadocs here: [papermc.io/javadocs](https://papermc.io/javadocs/)
+ * (Paper API) See upcoming, pending, and recently added API [here](https://github.com/PaperMC/Paper/projects/6)
+ * Paper/BambooL API javadocs here: [papermc.io/javadocs](https://papermc.io/javadocs/)
  * Maven Repo (for paper-api):
 ```xml
 <repository>
@@ -57,6 +56,7 @@ How To (Pull Request)
 Special Thanks To:
 -------------
 [![Paper](https://www.github.com/PaperMC/Paper/
+
 [![YourKit-Logo](https://www.yourkit.com/images/yklogo.png)](https://www.yourkit.com/)
 
 [YourKit](https://www.yourkit.com/), makers of the outstanding java profiler, support open source projects of all kinds with their full featured [Java](https://www.yourkit.com/java/profiler) and [.NET](https://www.yourkit.com/.net/profiler) application profilers. We thank them for granting Paper an OSS license so that we can make our software the best it can be.
