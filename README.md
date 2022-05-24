@@ -2,22 +2,15 @@ BambooL [![BambooL Build Status](https://img.shields.io/github/workflow/status/s
 
 ===========
 
-A High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
-
-
-**Support and Project Discussion:**
- - [Our forums](https://forums.papermc.io/), [Discord](https://discord.gg/papermc), or [IRC](https://webchat.esper.net/?channels=paper)
+Performance focused paper fork with slight modifications.
 
 How To (Server Admins)
 ------
-Paperclip is a jar file that you can download and run just like a normal jar file.
+Wait for release.
 
-Download coming soon.. [downloads page](https://papermc.io/downloads).
+Download coming soon.. 
 
-Run the Paperclip jar directly from your server. Just like old times
-
-  * Documentation on using Paper: [docs.papermc.io](https://docs.papermc.io)
-  * For a sneak peek on upcoming features, [see here](https://github.com/PaperMC/Paper/projects)
+Go to PaperMC for a working jar while this is being worked on.
 
 How To (Plugin Developers)
 ------
