@@ -23,7 +23,7 @@ To get a full list of tasks, run `./gradlew tasks`.
 
 PaperMC:
 -------------
-[![Paper](https://www.github.com/PaperMC/Paper/
+[![Paper](https://www.github.com/PaperMC/Paper/)
 
 
 
